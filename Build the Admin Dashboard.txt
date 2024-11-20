@@ -1,0 +1,15 @@
+admin-dashboard/
+├── components/
+│   ├── Navbar.js
+│   ├── Sidebar.js
+│   ├── UserManagement.js
+│   ├── ContentModeration.js
+│   ├── Analytics.js
+├── pages/
+│   ├── index.js
+│   ├── api/
+│       └── fetchData.js
+│   └── dashboard.js
+├── styles/
+│   ├── globals.css
+│   ├── Dashboard.module.css
